@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Settings</string>
+    <integer name="com_vk_sdk_AppId">6898111</integer>
+    <string name="title_activity_product"></string>
+    <string name="title_activity_fractions">SRM Parser</string>
+    <string name="necronID">222401877</string>
+    <string name="demonsID">222401920</string>
+    <string name="tauID">222401895</string>
+    <string name="guardID">222401931</string>
+    <string name="knightsID">222401908</string>
+    <string name="wolfsID">240229103</string>
+    <string name="marinesID">222402011</string>
+    <string name="chaosMarinesID">222401962</string>
+    <string name="bloodAngelsID">222401939</string>
+    <string name="darkAngelsID">222401988</string>
+    <string name="orksID">222401924</string>
+    <string name="mechsID">222401887</string>
+    <string name="greyKnightsID">222401873</string>
+    <string name="darkEldarID">222401861</string>
+    <string name="eldarID">222401845</string>
+    <string name="tiranidsID">222401851</string>
+    <string name="aksessuarsID">222401368</string>
+    <string name="alyansOrderID">230839402</string>
+    <string name="alyansChaosID">222401821</string>
+    <string name="alyansDeathID">222401633</string>
+    <string name="alyansDestrustionID">230839597</string>
+    private static final String  = "";
+    <string name="colorsID">222401392</string>
+    <string name="bitsID">222860223</string>
+    <string name="literatureID">222401321</string>
+    <string-array name="filterlist">
+        <item>Сортировка по цене</item>
+        <item>По убыванию</item>
+        <item>По возрастанию</item>
+    </string-array>
+
+    <string-array name="fractions_names">
+        <item>Демоны Хаоса</item> <!--demonsID -->
+        <item>Имперская Гвардия</item> <!-- guardID-->
+        <item>Имперские Рыцари и Титаны</item> <!--knightsID-->
+        <item>Империя Тау</item> <!--tauID-->
+        <item>Космические Волки</item>  <!--wolfsID-->
+        <item>Космические Десантники</item> <!--marinesID-->
+        <item>Космические Десантники Хаоса</item>   <!--chaosMarinesID-->
+        <item>Космические Орки</item> <!--orksID-->
+        <item>Кровавые Ангелы</item> <!-- bloodAngelsID-->
+        <item>Механикус</item> <!-- mechsID-->
+        <item>Некроны</item> <!-- necronID-->
+        <item>Серые Рыцари и Инквизиторы</item> <!-- greyKnightsID-->
+        <item>Темные Ангелы</item> <!--darkAngelsID-->
+        <item>Темные Эльдары </item>  <!--darkEldarID-->
+        <item>Тираниды и Генокульт</item>  <!--// tiranidsID-->
+        <item>Эльдары</item> <!--eldarID-->
+
+    </string-array>
+</resources>

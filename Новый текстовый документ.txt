@@ -1,0 +1,41 @@
+case "": //
+                    if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("().*")) word = "";
+                    else if (s.matches("(col+ect|кол+ектинг|старт).*") || s.matches("(sk|ск)")) word = "Start Collecting";
+                    else word = "";
+                    break;
+
+
+	
+                                                    String c = checkAlbs.toString();
+                                                    c = c.substring(2).substring(0,c.length() - 2);
+                                                    System.out.print(c);
